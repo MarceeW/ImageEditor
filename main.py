@@ -1,4 +1,4 @@
 from GUI.window import Window
 
-window = Window("Image editor", 600, 600)
+window = Window("Image editor", 720, 600)
 window.start()
